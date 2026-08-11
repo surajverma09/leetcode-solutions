@@ -2,9 +2,9 @@ class Solution {
     public int reverse(int x) {
         int sign = -1;
         int i = 0;
-        x = math.abs(x);
+        x = Math.abs(x);
 
-        while(x.length()>i){
+        while(x>i){
             int last = x / 10;
             int div = x % 10;
             int rev = rev * 10 + last;
