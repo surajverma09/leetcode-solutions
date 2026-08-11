@@ -15,5 +15,5 @@ class Solution {
             rev = rev * 10 + last;
             x = x / 10;
         }
-    }return rev*sign
+    }return rev*sign;
 }
