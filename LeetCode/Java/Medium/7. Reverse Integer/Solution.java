@@ -1,6 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        int sign;
+        int sign = 0;
         if(x > 0){
             int sign = 1;
         }
