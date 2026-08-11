@@ -10,10 +10,10 @@ class Solution {
             int rev = rev * 10 + last;
         }
         if(x <0){
-            return sign*rev
+            return sign*rev;
         }
         else{
-            return rev
+            return rev;
         }
     }
 }
