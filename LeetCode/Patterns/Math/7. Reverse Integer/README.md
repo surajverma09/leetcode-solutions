@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/reverse-integer/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 47 ms
+- **Memory:** 19.3 MB
 
 ---
 
