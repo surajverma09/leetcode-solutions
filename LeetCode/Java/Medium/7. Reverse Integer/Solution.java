@@ -1,6 +1,9 @@
 class Solution {
     public int reverse(int x) {
         int sign = 0;
+        if(x > 2^31-1 or x < -(2^31){
+            return 0;
+        }
         if(x > 0){
             sign = 1;
         }
