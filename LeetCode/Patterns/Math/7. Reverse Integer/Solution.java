@@ -2,10 +2,10 @@ class Solution {
     public int reverse(int x) {
         int sign = 0;
         if(x > 0){
-            int sign = 1;
+            sign = 1;
         }
         else{
-            int sign = -1;
+            sign = -1;
         }
         x = Math.abs(x);
         int rev = 0;
