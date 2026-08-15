@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 100 (2.0%)
+- **Completed:** 3 / 100 (3.0%)
 
 ---
 
@@ -34,7 +34,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Group Anagrams
 - [ ] Longest Consecutive Sequence
 - [ ] Valid Parentheses
-- [ ] Decode String
+- [x] [Decode String](./Python/Medium/394. Decode String/)
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
