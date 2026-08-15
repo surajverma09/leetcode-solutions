@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort
 
 ### 🚀 Performance
-- **Runtime:** 621 ms
-- **Memory:** 28.3 MB
+- **Runtime:** 616 ms
+- **Memory:** 27.7 MB
 
 ---
 
