@@ -8,8 +8,8 @@
 Design, Queue, Data Stream
 
 ### 🚀 Performance
-- **Runtime:** 49 ms
-- **Memory:** 24.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
