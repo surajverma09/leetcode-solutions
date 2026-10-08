@@ -8,8 +8,8 @@
 Array, Math, Stack
 
 ### 🚀 Performance
-- **Runtime:** 6 ms
-- **Memory:** 45.2 MB
+- **Runtime:** 90 ms
+- **Memory:** 45.1 MB
 
 ---
 
